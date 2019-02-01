@@ -1,0 +1,9 @@
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\bin\Debug\Image API Executable.exe
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\bin\Debug\Image API Executable.exe.config
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\bin\Debug\Image API Executable.pdb
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\bin\Debug\ImageAPI.dll
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\bin\Debug\ImageAPI.pdb
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\bin\Debug\ImageAPI.dll.config
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\obj\Debug\Image API Executable.csprojResolveAssemblyReference.cache
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\obj\Debug\Image API Executable.exe
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\Image API Executable\obj\Debug\Image API Executable.pdb

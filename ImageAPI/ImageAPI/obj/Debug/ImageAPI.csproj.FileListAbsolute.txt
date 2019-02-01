@@ -1,0 +1,6 @@
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\ImageAPI\bin\Debug\ImageAPI.dll.config
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\ImageAPI\bin\Debug\ImageAPI.dll
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\ImageAPI\bin\Debug\ImageAPI.pdb
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\ImageAPI\obj\Debug\ImageAPI.csprojResolveAssemblyReference.cache
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\ImageAPI\obj\Debug\ImageAPI.dll
+C:\Users\pc\documents\visual studio 2017\Projects\ImageAPI\ImageAPI\obj\Debug\ImageAPI.pdb
